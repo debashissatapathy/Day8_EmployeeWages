@@ -17,8 +17,11 @@ namespace EmployeeWages
             //emp.Emp_Swichcase();
             //UC5_MonthlyWages month = new UC5_MonthlyWages();
             //month.Emp_MontlyWages();
-            UC6_Condition code = new UC6_Condition();
-            code.Emp_Condition();
+            //UC6_Condition code = new UC6_Condition();
+            //code.Emp_Condition();
+            //UC7_ComputeWage.Compute_Wage();
+            UC8_MultipleCompany.Multiple_Company("reliance", 40);
+           
         }
     }
 }

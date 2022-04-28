@@ -42,7 +42,7 @@ namespace EmployeeWages
                     Console.Write("EMployee is absent.");
                     break;
                 
-            }
+            }           
 
         }        
     }
